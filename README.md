@@ -13,4 +13,4 @@ A 3x3 macropad with features i need.
 
 Ive used: Gemini - for helping me fix the wireing of the pcb so it wont shortcircuit. Fusion360 AI assistent - to build a case
 
-#THE PROJECT IS IN DESIGNING PART NOW! MORE UPDATES COMING SOON!
+# THE PROJECT IS IN DESIGNING PART NOW! MORE UPDATES COMING SOON!
