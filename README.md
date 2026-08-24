@@ -13,6 +13,13 @@ A 3x3 macropad with features i need.
 
 Ive used: Gemini - for helping me fix the wireing of the pcb so it wont shortcircuit.
 
+## CAD model
+
+This is how the macropad looks like (yes it is very simple. i didnt want to to complicate everything because its my first time)
+
+<img width="1093" height="729" alt="image" src="https://github.com/user-attachments/assets/de9de1f9-9fe1-4708-9fae-1f6d54fd2a28" />
+
+
 ## PCB
 
 Ive made this PCB with KICAD. heres the picture of the schematic and PCB
