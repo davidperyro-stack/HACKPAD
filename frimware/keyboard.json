@@ -1,7 +1,7 @@
 {
-    "manufacturer": "YourName",
+    "manufacturer": "Pery",
     "keyboard_name": "hackpad",
-    "maintainer": "yourname",
+    "maintainer": "davidPeryRO",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
