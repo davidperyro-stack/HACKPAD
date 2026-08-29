@@ -6,7 +6,7 @@ A 3x3 macropad with features i need.
 
 - x1 MCU_Seeed_XIAO_RP2040
 - x9 Diodes
-- x1 MX_PCB_1.00u
+- x9 MX_PCB_1.00u
 - 1x case (only bottom part)
 
 ## AI usage declaration
